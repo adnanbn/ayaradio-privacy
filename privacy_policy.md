@@ -22,4 +22,4 @@ Aya Radio is built to provide religious and educational audio programming. We ke
 - If location is disabled, the app uses a default city schedule which will affect streaming time and result in accurate prayer call.
 
 ## Contact
-If you have questions, contact us at: support@ayaradio.com
+If you have questions, contact us at: info@ayaradio.com
