@@ -19,7 +19,7 @@ Aya Radio is built to provide religious and educational audio programming. We ke
 
 ## Your choices
 - You can deny or revoke location access in your device settings.
-- If location is disabled, the app uses a default city schedule which will affect streaming time and result in accurate prayer call.
+- If location is disabled, the app uses a default city schedule which will affect streaming time and result in an inaccurate prayer call
 
 ## Contact
 If you have questions, contact us at: info@ayaradio.com
